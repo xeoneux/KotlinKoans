@@ -304,7 +304,7 @@
                     <Task>
                       <option name="index" value="7" />
                       <option name="name" value="Data classes" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="0" />
                       <option name="text" />
                       <option name="taskFiles">
@@ -324,17 +324,17 @@
                                           <option name="myStart" value="0" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="12" />
+                                      <option name="length" value="49" />
                                       <option name="line" value="0" />
                                       <option name="possibleAnswer" value="data class Person(val name: String, val age: Int)" />
                                       <option name="selected" value="false" />
                                       <option name="start" value="0" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="-1" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
