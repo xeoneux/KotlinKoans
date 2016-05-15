@@ -520,7 +520,7 @@
                     <Task>
                       <option name="index" value="11" />
                       <option name="name" value="Object expressions" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="0" />
                       <option name="text" />
                       <option name="taskFiles">
@@ -540,17 +540,17 @@
                                           <option name="myStart" value="32" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="9" />
+                                      <option name="length" value="85" />
                                       <option name="line" value="4" />
                                       <option name="possibleAnswer" value="object : Comparator&lt;Int&gt; {&#10;    override fun compare(x: Int, y: Int) = y - x&#10;}" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="start" value="32" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="-1" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
