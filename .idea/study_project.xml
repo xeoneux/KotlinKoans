@@ -457,7 +457,7 @@
                     <Task>
                       <option name="index" value="10" />
                       <option name="name" value="Extension functions" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="0" />
                       <option name="text" />
                       <option name="taskFiles">
@@ -477,12 +477,12 @@
                                           <option name="myStart" value="30" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="6" />
+                                      <option name="length" value="23" />
                                       <option name="line" value="0" />
                                       <option name="possibleAnswer" value="RationalNumber(this, 1)" />
                                       <option name="selected" value="false" />
                                       <option name="start" value="30" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                     </AnswerPlaceholder>
                                     <AnswerPlaceholder>
@@ -495,17 +495,17 @@
                                           <option name="myStart" value="41" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="6" />
+                                      <option name="length" value="39" />
                                       <option name="line" value="1" />
                                       <option name="possibleAnswer" value="RationalNumber(first, second)" />
                                       <option name="selected" value="false" />
                                       <option name="start" value="41" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="-1" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
