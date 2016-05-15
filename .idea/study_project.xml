@@ -259,7 +259,7 @@
                     <Task>
                       <option name="index" value="6" />
                       <option name="name" value="Strings" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="0" />
                       <option name="text" />
                       <option name="taskFiles">
@@ -279,17 +279,17 @@
                                           <option name="myStart" value="27" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="6" />
+                                      <option name="length" value="26" />
                                       <option name="line" value="2" />
                                       <option name="possibleAnswer" value="&quot;&quot;&quot;\d{2} ${month} \d{4}&quot;&quot;&quot;" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="start" value="27" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="-1" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
