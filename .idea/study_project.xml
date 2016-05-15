@@ -610,7 +610,7 @@
                     <Task>
                       <option name="index" value="13" />
                       <option name="name" value="Extensions on collections" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="0" />
                       <option name="text" />
                       <option name="taskFiles">
@@ -630,17 +630,17 @@
                                           <option name="myStart" value="31" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="52" />
+                                      <option name="length" value="20" />
                                       <option name="line" value="1" />
                                       <option name="possibleAnswer" value=".sortedDescending()" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="start" value="31" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="-1" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
