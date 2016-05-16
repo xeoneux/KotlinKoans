@@ -1156,7 +1156,7 @@
                     <Task>
                       <option name="index" value="2" />
                       <option name="name" value="Filter map" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="0" />
                       <option name="text" />
                       <option name="taskFiles">
@@ -1191,12 +1191,12 @@
                                           <option name="myStart" value="50" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="6" />
+                                      <option name="length" value="33" />
                                       <option name="line" value="1" />
                                       <option name="possibleAnswer" value="customers.map { it.city }.toSet()" />
                                       <option name="selected" value="false" />
                                       <option name="start" value="50" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                     </AnswerPlaceholder>
                                     <AnswerPlaceholder>
@@ -1209,17 +1209,17 @@
                                           <option name="myStart" value="56" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="6" />
+                                      <option name="length" value="36" />
                                       <option name="line" value="4" />
                                       <option name="possibleAnswer" value="customers.filter { it.city == city }" />
                                       <option name="selected" value="false" />
                                       <option name="start" value="56" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="-1" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
