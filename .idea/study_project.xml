@@ -1249,7 +1249,7 @@
                     <Task>
                       <option name="index" value="3" />
                       <option name="name" value="All Any and other predicates" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="0" />
                       <option name="text" />
                       <option name="taskFiles">
@@ -1284,12 +1284,12 @@
                                           <option name="myStart" value="57" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="6" />
+                                      <option name="length" value="33" />
                                       <option name="line" value="1" />
                                       <option name="possibleAnswer" value="customers.all { it.city == city }" />
                                       <option name="selected" value="false" />
                                       <option name="start" value="57" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                     </AnswerPlaceholder>
                                     <AnswerPlaceholder>
@@ -1302,12 +1302,12 @@
                                           <option name="myStart" value="48" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="6" />
+                                      <option name="length" value="33" />
                                       <option name="line" value="4" />
                                       <option name="possibleAnswer" value="customers.any { it.city == city }" />
                                       <option name="selected" value="false" />
                                       <option name="start" value="48" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                     </AnswerPlaceholder>
                                     <AnswerPlaceholder>
@@ -1320,12 +1320,12 @@
                                           <option name="myStart" value="47" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="6" />
+                                      <option name="length" value="35" />
                                       <option name="line" value="7" />
                                       <option name="possibleAnswer" value="customers.count { it.city == city }" />
                                       <option name="selected" value="false" />
                                       <option name="start" value="47" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                     </AnswerPlaceholder>
                                     <AnswerPlaceholder>
@@ -1338,17 +1338,17 @@
                                           <option name="myStart" value="54" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="6" />
+                                      <option name="length" value="34" />
                                       <option name="line" value="10" />
                                       <option name="possibleAnswer" value="customers.find { it.city == city }" />
                                       <option name="selected" value="false" />
                                       <option name="start" value="54" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="-1" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
