@@ -664,7 +664,7 @@
                     <Task>
                       <option name="index" value="1" />
                       <option name="name" value="Comparison" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="0" />
                       <option name="text" />
                       <option name="taskFiles">
@@ -684,17 +684,17 @@
                                           <option name="myStart" value="4" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="10" />
+                                      <option name="length" value="244" />
                                       <option name="line" value="1" />
                                       <option name="possibleAnswer" value="override fun compareTo(other: MyDate) = when {&#10;        year != other.year -&gt; year - other.year&#10;        month != other.month -&gt; month - other.month&#10;        else -&gt; dayOfMonth - other.dayOfMonth&#10;    }" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="start" value="4" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="-1" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
