@@ -769,7 +769,7 @@
                     <Task>
                       <option name="index" value="3" />
                       <option name="name" value="Range to" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="0" />
                       <option name="text" />
                       <option name="taskFiles">
@@ -804,17 +804,17 @@
                                           <option name="myStart" value="45" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="6" />
+                                      <option name="length" value="22" />
                                       <option name="line" value="0" />
                                       <option name="possibleAnswer" value="DateRange(this, other)" />
                                       <option name="selected" value="false" />
                                       <option name="start" value="45" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="-1" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
