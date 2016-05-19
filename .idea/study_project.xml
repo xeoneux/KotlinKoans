@@ -1939,7 +1939,7 @@
                     <Task>
                       <option name="index" value="11" />
                       <option name="name" value="Compound tasks" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="0" />
                       <option name="text" />
                       <option name="taskFiles">
@@ -1974,12 +1974,12 @@
                                           <option name="myStart" value="4" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="6" />
+                                      <option name="length" value="82" />
                                       <option name="line" value="3" />
                                       <option name="possibleAnswer" value="return orders.filter { it.isDelivered }.flatMap { it.products }.maxBy { it.price }" />
                                       <option name="selected" value="false" />
                                       <option name="start" value="4" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                     </AnswerPlaceholder>
                                     <AnswerPlaceholder>
@@ -1992,12 +1992,12 @@
                                           <option name="myStart" value="4" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="6" />
+                                      <option name="length" value="87" />
                                       <option name="line" value="9" />
                                       <option name="possibleAnswer" value="return customers.flatMap { it.getOrderedProductsList() }.count { it == product }" />
                                       <option name="selected" value="false" />
                                       <option name="start" value="4" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                     </AnswerPlaceholder>
                                     <AnswerPlaceholder>
@@ -2015,12 +2015,12 @@
                                       <option name="possibleAnswer" value="fun Customer.getOrderedProductsList(): List&lt;Product&gt; {&#10;    return orders.flatMap { it.products }&#10;}" />
                                       <option name="selected" value="false" />
                                       <option name="start" value="0" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="-1" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
