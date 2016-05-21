@@ -2476,7 +2476,7 @@
                     <Task>
                       <option name="index" value="2" />
                       <option name="name" value="String and map builders" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="0" />
                       <option name="text" />
                       <option name="taskFiles">
@@ -2496,17 +2496,17 @@
                                           <option name="myStart" value="0" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="10" />
+                                      <option name="length" value="131" />
                                       <option name="line" value="2" />
                                       <option name="possibleAnswer" value="fun &lt;K, V&gt; buildMap(build: HashMap&lt;K, V&gt;.() -&gt; Unit): Map&lt;K, V&gt; {&#10;    val map = HashMap&lt;K, V&gt;()&#10;    map.build()&#10;    return map&#10;}" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="start" value="0" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="-1" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
