@@ -2674,7 +2674,7 @@
                     <Task>
                       <option name="index" value="5" />
                       <option name="name" value="Builders how it works" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="0" />
                       <option name="text" />
                       <option name="taskFiles">
@@ -2694,17 +2694,17 @@
                                           <option name="myStart" value="8" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="42" />
+                                      <option name="length" value="30" />
                                       <option name="line" value="5" />
                                       <option name="possibleAnswer" value="1 to c, 2 to b, 3 to b, 4 to c" />
                                       <option name="selected" value="false" />
                                       <option name="start" value="8" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="-1" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />
